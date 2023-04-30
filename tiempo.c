@@ -20,9 +20,3 @@ int main(int argc, char* argv[]){
     rt_task_create(&tarea_hola,str,0,50,0);
     rt_task_start(&tarea_hola, &mensaje, 0);
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Se
